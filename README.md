@@ -1,2 +1,2 @@
 # Practice-Code...
-Javascript Coding!!
+Javascript Coding for a simple website!
