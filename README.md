@@ -2,6 +2,6 @@
 
 Javascript coding for a simple website!
 
-Practice
+
 
 
