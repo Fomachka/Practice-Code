@@ -1,6 +1,6 @@
 # Practice-Code!
 
-Javascript coding for a simple website!!!!
+Javascript coding for a simple website!!!
 
 
 
